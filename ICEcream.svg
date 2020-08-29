@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="365.35031"
+   inkscape:export-xdpi="365.35031"
+   inkscape:export-filename="C:\Users\tomat\Documents\KiCAD\FPGA_TB\ICEcream.png"
+   sodipodi:docname="ICEcream.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect850"
+       height="14.976088"
+       width="29.73609"
+       y="27.361711"
+       x="57.452381" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1721"
+     inkscape:window-width="3200"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="135.15012"
+     inkscape:cx="346.71046"
+     inkscape:zoom="5.6"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid833"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide835"
+       orientation="-1,0"
+       position="100,247" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide837"
+       orientation="0,1"
+       position="100,242" />
+    <sodipodi:guide
+       id="guide843"
+       orientation="0,-1"
+       position="88.800299,269.63829" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide845"
+       orientation="-1,0"
+       position="110,261.35293" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide847"
+       orientation="-1,0"
+       position="90,260.8518" />
+    <sodipodi:guide
+       id="guide857"
+       orientation="1,0"
+       position="109.58356,260.94462" />
+    <sodipodi:guide
+       id="guide859"
+       orientation="0,1"
+       position="109.74302,257"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="83.08389,262"
+       orientation="0,1"
+       id="guide849"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="84.595794,252"
+       orientation="0,1"
+       id="guide851"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path839"
+       d="m 100,55.000001 10.08164,-27.63829 H 90 Z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 93.620116,35.005907 H 106.38209"
+       id="path843"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path845"
+       d="m 95.299908,40.000001 h 9.423322"
+       style="fill:none;stroke:#ffffff;stroke-width:0.765;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 97.200719,45.000001 H 102.7976"
+       id="path847"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-0.023623512" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path853"
+       d="m 110.08164,27.361711 v 5.720653 c 0,0.746287 -0.87018,0.732329 -0.85347,0 v -3.603987"
+       style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cssssssc"
+       d="m 110,23.973679 c 0,2.279678 1.14166,5.524443 -0.15961,5.843555 -0.73829,0.181051 -0.25683,-2.455523 -2.63635,-2.294776 -2.13381,0.144149 -4.89527,0.264327 -7.14488,-0.102674 -2.725393,-0.444619 -7.723144,1.767553 -9.485541,0.50125 C 88.495256,26.427705 90,26.735103 90,23.973679 c 0,-5.522847 4.477153,-10 10,-10 5.52285,0 10,4.477153 10,10"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path849" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path851"
+       d="m 96.968724,15.518337 c -1.904296,0.601357 -4.543582,2.806329 -5.161641,4.944486"
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cssc"
+       id="path855"
+       d="m 110,30.570638 0.78167,2.251863 c 0.44832,1.291536 -1.82975,1.391168 -1.42952,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="rotate(-15.04229,78.428472,1.6908463)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Forte;-inkscape-font-specification:Forte;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect850);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text848"
+       xml:space="preserve"><tspan
+         x="57.453125"
+         y="38.585722"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Forte;-inkscape-font-specification:Forte">ICE</tspan></tspan></text>
+    <text
+       transform="rotate(-16.073665)"
+       id="text856"
+       y="71.160301"
+       x="52.308193"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Forte;-inkscape-font-specification:Forte;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forte;-inkscape-font-specification:Forte;stroke-width:0.264583"
+         y="71.160301"
+         x="52.308193"
+         id="tspan854"
+         sodipodi:role="line">cream</tspan></text>
+  </g>
+</svg>
